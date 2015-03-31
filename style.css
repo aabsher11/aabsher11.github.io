@@ -1,31 +1,19 @@
-h1 {
-    text-align: left;
-    color: #707070;
-}
+* {font-family:Roboto;
+background-color: #FFF0F5
+font:gray;}
 
-h2 {
-    text-align: left;
-    color: #A0A0A0;
-}
+.square { 
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin: auto;}
+	
+	#intro { 
+		text-align:left; 
+		floating: left;
+	}
 
-h3 {
-    text-align: left;
-    color: #B8B8B8;
-}
-
-p {
-    font-family: "Georgia";
-}
-
-body {
-    background-color: #99FFFF;
-}
-
-h1, h2, h3 { 
-	font-family: "Tahoma";
-}
-
-h1+p {
-	Color: #686868;
- }
+	div{ 
+		text-align: right;
+		floating: right;}
 
