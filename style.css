@@ -1,8 +1,8 @@
 
 * {font-family:Georgia;
 	color: FFFFFF;
-background-color: #E6B8E6;
-text-align:center;}
+background-color: #C2C2D6;
+text-align:left;}
 
 h1 { color: #000000;}
 
@@ -11,16 +11,15 @@ h2 { color: #000000;}
 h3 { color: #000000;}
 
 .square { 
-	text-align:center;
-	display:inline block;
+	text-align:left;
 	margin: auto;}
 	
 	#intro { 
-		text-align:center; 
-		floating: center;
+		text-align:left; 
+		floating: left;
 	}
 
 	div{ 
-		text-align: center;
-		floating: center;}
+		text-align: left;
+		floating: left;}
 
