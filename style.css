@@ -1,6 +1,7 @@
+
 * {font-family:Georgia;
 	color: FFFFFF;
-background-color: #806680;
+background-color: #E6B8E6;
 text-align:center;}
 
 h1 { color: #000000;}
@@ -10,7 +11,9 @@ h2 { color: #000000;}
 h3 { color: #000000;}
 
 .square { 
-	text-align:center;}
+	text-align:center;
+	display:inline block;
+	margin: auto;}
 	
 	#intro { 
 		text-align:center; 
