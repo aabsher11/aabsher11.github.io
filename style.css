@@ -1,0 +1,18 @@
+* {font-family:Roboto;
+background-color: #FFF0F5
+color:;}
+
+.square { 
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin: auto;}
+	
+	#intro { 
+		text-align:left; 
+		floating: left;
+	}
+
+	div{ 
+		text-align: right;
+		floating: right;}
