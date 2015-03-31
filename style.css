@@ -1,17 +1,15 @@
-* {font-family:Roboto;
-background-color: #FFCCFF
-color:gray;}
+* {font-family:Georgia;
+	color: FFFFFF;
+background-color: #806680;}
 
-h1 { color: #806680;}
+h1 { color: #000000;}
 
-h2 { color: #806680;}
+h2 { color: #000000;}
 
-h3 { color: #806680;}
+h3 { color: #000000;}
 
 .square { 
-	height: 100px;
-	width: 100px;
-	margin: auto;}
+	text-align:center;}
 	
 	#intro { 
 		text-align:center; 
@@ -21,3 +19,4 @@ h3 { color: #806680;}
 	div{ 
 		text-align: center;
 		floating: center;}
+
