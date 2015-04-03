@@ -19,24 +19,17 @@ a: link{
 		color:#D3D3D3;
 		font-style: Italic;} 
 	
-	body {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 980px;
-  text-align: center;
+
 }
 
 .square { 
-	text-align:center;
+
 	margin: auto;}
 	
 	#intro { 
 		text-align:center; 
 	}
 
-	div{ 
-		text-align: center;
+	div{
 		floating: center;}
  
