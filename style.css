@@ -13,6 +13,9 @@ h3 { color: #000000;}
 a: link{ 
 	color:#C0C0C0;
 	font-style: Italic;} 
+	a: visited{ 
+		color:#D3D3D3;
+		font-style: Italic;} 
 	
 	body {
   padding-right: 15px;
