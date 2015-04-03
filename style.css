@@ -12,7 +12,15 @@ h3 { color: #000000;}
 
 a href { 
 	color:#ccc;
-	font-style: Italic;
+	font-style: Italic;} 
+	
+	body {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 980px;
+}
 
 .square { 
 	text-align:left;
