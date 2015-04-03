@@ -28,11 +28,10 @@ a href {
 	margin: auto;}
 	
 	#intro { 
-		text-align:left; 
-		floating: left;
+		text-align:center; 
 	}
 
 	div{ 
-		text-align: left;
-		floating: left;}
+		text-align: center;
+		floating: center;}
  
