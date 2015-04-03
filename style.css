@@ -10,6 +10,10 @@ h2 { color: #000000;}
 
 h3 { color: #000000;}
 
+a href { 
+	color:#ccc;
+	font-style: Italic;
+
 .square { 
 	text-align:left;
 	margin: auto;}
