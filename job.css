@@ -3,14 +3,17 @@
 background-color: #51BAAA;
 }
 
-h1 { color: #C0C0C0;}
+h1 { color: #1C403A;}
 
-h2 { color: #C0C0C0;}
+h2 { color: #1C403A;}
 
-h3 { color: #C0C0C0;}
+h3 { color: #1C403A;}
 
-h4 {color: #C0C0C0;}
+h4 {color: #1C403A;}
 
 a: link{ 
 	color:#377F74;
 	font-style: Italic;} 
+	
+	#video {text-align: center;
+		border: 2px solid black;}
