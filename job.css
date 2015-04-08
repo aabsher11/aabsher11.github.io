@@ -1,3 +1,4 @@
+
 * {font-family:Georgia;
 	color: FFFFFF;
 background-color: #51BAAA;
@@ -13,7 +14,12 @@ h4 {color: #1C403A;}
 
 a: link{ 
 	color:#377F74;
-	font-style: Italic;} 
+	font-style: Italic;
+	font-style:underline ;} 
 	
-	#video {text-align: center;
+	#video {align: center;
 		border: 2px solid black;}
+		
+		#name { text-align: center;}
+		
+		#resume {text-align:center;}
