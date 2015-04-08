@@ -15,10 +15,12 @@ h4 {color: #1C403A;}
 a: link{ 
 	color:#377F74;
 	font-style: Italic;
-	font-style:underline ;} 
+	font-style:underline ;
+	font-weight: bold;
+	font-size: 14px;
+} 
 	
-	#video {align: center;
-		border: 2px solid black;}
+	#video {align: center;}
 		
 		#name { text-align: center;}
 		
